@@ -1,0 +1,7 @@
+3
+m m m m m m
+m i 9 8 7 m
+m 6 0 m 4 m
+m m 3 m 2 m
+m 1 0 5 u m
+m m m m m m
